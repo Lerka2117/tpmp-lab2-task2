@@ -1,8 +1,8 @@
 <header>
 
 # Hello GitHub Actions
-smile:_
-smile:_
+:smile:_
+:smile:_
 _Create and run a GitHub Actions workflow._
 
 </header>
